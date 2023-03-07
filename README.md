@@ -4,11 +4,10 @@
 # [Breast Cancer Detector] ⭐
 
 
-![Jupiter](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![Pyhton](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Jupiter](https://img.shields.io/badge/PYHTON-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Pyhton](https://img.shields.io/badge/JUPYTOR-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)
 
 
 ## What is Breast Cancer Detector? 🤔

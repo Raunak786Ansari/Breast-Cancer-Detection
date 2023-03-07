@@ -24,16 +24,9 @@
 
 
 ## Overview 👀
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.03 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (2).jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (1).jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.16.40 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.16.39 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
 
-<img src="images/IMG_20230104_105140.jpg">
+
+
 
 
 
